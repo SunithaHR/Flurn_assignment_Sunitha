@@ -1,0 +1,31 @@
+.search-bar {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bookmark{
+  display: flex;
+  justify-content: end;
+}
+
+.heading{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.flex{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.button{
+  border-radius: 10px;
+  background-color: gray;
+}
+
